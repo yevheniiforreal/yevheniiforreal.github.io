@@ -200,7 +200,7 @@ header li a:hover{
   height: 457px;
   background-image:
           linear-gradient(to top, rgba(10,64,101,0.7), rgba(10,64,101,0.7)),      
-           url(/img/background.png);
+           url(img/background.png);
   background-position: center;
   background-repeat: no-repeat;
   margin: 0 auto;
@@ -647,7 +647,7 @@ footer a{
   position: absolute;
   width: 801px;
   height: 784px;
-  background-image: url('/img/footer-img.jpg');
+  background-image: url('img/footer-img.jpg');
   background-position: -52px -7px;
   background-repeat: no-repeat;
   bottom: 0px;
