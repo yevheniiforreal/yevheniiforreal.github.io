@@ -200,7 +200,7 @@ header li a:hover{
   height: 457px;
   background-image:
           linear-gradient(to top, rgba(10,64,101,0.7), rgba(10,64,101,0.7)),      
-           url(img/background.png);
+           url('img/background.png');
   background-position: center;
   background-repeat: no-repeat;
   margin: 0 auto;
